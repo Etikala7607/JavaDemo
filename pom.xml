@@ -20,7 +20,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<sonar.organization>etikala7607</sonar.organization>
 		<sonar.projectKey>etikala7607</sonar.projectKey>
-		<sonar.projectName>newjenkins</sonar.projectName
+		<sonar.projectName>newjenkins</sonar.projectName>
 	</properties>
 	<dependencies>
 	  <dependency>
